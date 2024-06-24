@@ -4,4 +4,10 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/Ee5eepPQUh5MoufXuw4s6dcBRaRyp7SPcgj09hTZWNq7aA?e=OK5xle)
 
+<<<<<<< HEAD
 <strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-minyjae/</strong>
+=======
+640610287 จิรเดช อรทัย
+
+<strong>GITHUB PAGE URL : [</strong>](https://cpe207.github.io/lab03-minyjae/)
+>>>>>>> 97d42db581dd15ca06ff670b09413aa04053af64
