@@ -1,0 +1,70 @@
+.font {
+    margin-left: 7rem;
+}
+
+.pic {
+    margin-left: 12rem;
+}
+
+.bg {
+    background-color: rgb(198,191,168);
+}
+
+.header {
+    font-family: 'PT Serif';
+    margin: 0 auto; 
+    width: fit-content; 
+    text-align: center;
+}
+
+.text {
+    font-family: 'PT Serif';
+    /* margin: 0 auto; 
+    width: fit-content; 
+    text-align: center; */
+}
+
+h1 {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif';
+    /* margin: 40px auto; 
+    width: fit-content; 
+    text-align: center;  */
+}
+
+.img1 {
+    float: left;
+    /* margin-left: 100px;  */
+}
+
+.img2 {
+    float: left;
+    margin-left: 100px;
+    /* margin-top: 220px; */
+}
+
+.img3 {
+    float: left;
+    margin-left: 100px;
+    /* margin-top: 220px; */
+}
+
+p {
+    color: black;
+    font-family: 'Kanit';
+    /* margin-left: 550px; */
+    border-style: solid ;
+    /* padding: 10px; */
+}
+
+h2 {
+    color: rgb(73, 85, 72);
+    font-family: 'Kanit';
+    /* margin-top: 50px;
+    margin-left: 775px; */
+}
+
+.h2hob {
+    /* margin-top: 50px;
+    margin-left: 90px; */
+}

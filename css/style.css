@@ -1,0 +1,52 @@
+.pic {
+    margin-left: 16rem;
+}
+.bg {
+    background-color: rgb(198,191,168);
+}
+.header {
+    font-family: 'PT Serif';
+    margin: 0 auto; 
+    width: fit-content; 
+    text-align: center;
+}
+
+h1 {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif','Black Han Sans';
+    font-style: italic;
+    /* margin: 40px auto; 
+    width: fit-content; 
+    text-align: center;  */
+}
+
+h2 {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif';
+    /* margin-top: 50px;
+    margin-left: 775px; */
+}
+
+.Skill {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif';
+    /* margin-left: 450px; */
+}
+
+p {
+    font-family: 'PT Serif';
+    /* border-style: solid ;
+    margin-left: 450px;
+    padding: 10px; */
+}
+
+img {
+    float: left;
+    /* margin-left: 90px; */
+}
+    
+.top {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif';
+    /* margin-left: 500px; */
+}
